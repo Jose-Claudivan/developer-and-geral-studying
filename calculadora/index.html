@@ -17,10 +17,16 @@
             <div id="entrada">
                 <label for="numero">Insira um número:</label>
                 <input type="number" name="numero" id="numero" step="1" placeholder="Insira um número">
+                <!-- <p>
+                    <label for="adicao">+</label><input type="radio" name="adicao" id="adicao" />
+                    <label for="adicao">-</label><input type="radio" name="subtracao" id="subtracao" />
+                    <label for="adicao">x</label><input type="radio" name="multiplicacao" id="multiplicacao" />
+                    <label for="adicao">/</label><input type="radio" name="divisao" id="divisao" />
+                </p> -->
             </div>
 
             <div id="resultado">
-                <button>Calcular</button>
+                <button type="submit" onclick="calcular()">Calcular</button>
                 Resultado   
             </div>
         </main>
@@ -28,5 +34,7 @@
         <footer>
             <p>&copy; CursoemVideo</p>
         </footer>
+
+        <script src="script.js"></script>
     </body>
 </html>

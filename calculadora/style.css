@@ -32,6 +32,13 @@ main {
     border-radius: 20px;
 }
 
+/* #entrada p label{
+    display: inline-block;
+    background: #2377bb;
+    width: 40px;
+    height: 40px;
+} */
+
 #resultado button {
     display: block;
     margin: 20px auto;
