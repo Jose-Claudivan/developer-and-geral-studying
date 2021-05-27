@@ -1,4 +1,4 @@
-# web-developer-studying
+# developer-and-geral-studying
 
 Esse repositorio tem a finalidade de armazenar e compartilhar os conhecimentos adquiridos ao longo da minha jornada de aprendizado e desenvolvimento.
 
